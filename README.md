@@ -83,17 +83,17 @@ This project demonstrates end-to-end data analysis skills: **data cleaning, tran
 | | |
 |---|---|
 | ![pb1](screenshots/pb1.png) | ![pb2](screenshots/pb2.png) |
-| *Overview Dashboard* | *Sales by Country* |
+| *Overview Dashboard* | *Orders by Category* |
 
 | | |
 |---|---|
 | ![pb3](screenshots/pb3.png) | ![pb4](screenshots/pb4.png) |
-| *Monthly Sales Trend* | *Category Matrix* |
+| *Waterfall by Categories* | *Number of Orders by Sales Manager* |
 
 | | |
 |---|---|
 | ![pb5](screenshots/pb5.png) | |
-| *Manager Performance* | |
+| *Orders by Customer and Category* | |
 
 
 ---
