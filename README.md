@@ -126,7 +126,7 @@ ecommerce-sales-dashboard/
 - Windows OS (or Power BI for Mac via browser)
 
 ### Steps
-1. Download `ecommerce_dashboard.pbix` from this repo
+1. Download `Sales_3.pbix` from this repo
 2. Open with Power BI Desktop
 3. Explore visuals or refresh data (if source available)
 4. Export as PDF from **File → Export → Export to PDF**
@@ -147,8 +147,8 @@ This dashboard is not published to Power BI Cloud. Instead, it is distributed as
 **Data Analyst**  
 *Power BI | SQL | Python | Data Visualization*
 
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-🐙 [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/humberto-hern%C3%A1ndez-renter%C3%ADa-bb8147a3/)  
+🐙 [GitHub](https://github.com/humbertohr)
 
 ---
 
@@ -160,4 +160,4 @@ This dashboard is not published to Power BI Cloud. Instead, it is distributed as
 
 ## 📄 License
 
-This project is for portfolio purposes. Data is anonymized and does not contain real customer information.
+This project is for portfolio purposes. Data does not contain real customer information.
